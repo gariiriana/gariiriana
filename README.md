@@ -1,43 +1,71 @@
-# Hi there! I'm Gari Iriana 👋
+<h1 align="center">Gari Iriana</h1>
+<p align="center"><i>Senior Software Engineer · UI/UX Architect</i></p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gariiriana&label=Profile%20views&color=0e75b6&style=flat-square" alt="gariiriana" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gariiriana&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
-I am a **Senior Software Engineer & UI/UX Architect** specializing in building high-performance, large-scale web & mobile applications. I design internal digital ecosystems, optimize critical workflows, and implement real-time data solutions with premium UI/UX experiences.
+<p align="center">
+  Crafting high-performance web and mobile platforms, designing internal digital ecosystems, and shaping real-time data experiences where engineering rigor meets a refined sense of interface.
+</p>
 
 ---
 
-### 🚀 Technical Expertise
+### About
 
-* **Frontend Mastery:** React 18, TypeScript, Vite, Tailwind CSS (v3/v4), Framer Motion, Radix UI.
-* **Backend & System Design:** Go (Golang/Gin), Python (Django), PHP (Laravel), Node.js, Docker, System Architecture.
-* **Mobile Engineering:** Flutter, Dart (Cross-platform).
-* **Databases & Real-time Sync:** Firebase (Firestore & RTDB), PostgreSQL, MySQL.
-* **Quality Assurance & DevOps:** Katalon Studio (Automated testing), CI/CD, Containerization.
-* **Added Value:** Hands-on experience managing critical data center infrastructure (UPS, PDU, cooling) and coordinating field operations under strict Method of Procedure (MOP) standards.
+I work at the intersection of systems engineering and product design, building software that scales without losing its sense of polish. My focus areas are large-scale enterprise platforms, real-time infrastructure tooling, and interfaces that feel quiet and intentional. I care about latency, ergonomics, and the small details that separate a working product from one that feels right.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Technical Expertise
 
-<p align="left">
-  <!-- Languages & Frameworks -->
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React 18, TypeScript, Vite, Tailwind CSS (v3 / v4), Framer Motion, Radix UI</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Go (Gin), Python (Django), PHP (Laravel), Node.js, system architecture</td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>Flutter, Dart — cross-platform delivery</td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>Firebase (Firestore, RTDB), PostgreSQL, MySQL</td>
+  </tr>
+  <tr>
+    <td><b>QA & DevOps</b></td>
+    <td>Katalon Studio, CI/CD pipelines, Docker, containerization</td>
+  </tr>
+  <tr>
+    <td><b>Field Engineering</b></td>
+    <td>Hands-on data center operations across UPS, PDU, and cooling systems under MOP-driven workflows</td>
+  </tr>
+</table>
+
+---
+
+### Tech Stack
+
+<p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <br>
-  <!-- Frontend & Libraries -->
-  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 18" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Framer_Motion-00C7B7?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <br>
-  <!-- Tools & Platforms -->
+</p>
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -47,51 +75,46 @@ I am a **Senior Software Engineer & UI/UX Architect** specializing in building h
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
-#### **Senior Software Engineer** *(Feb 2025 - Present)*
-* **Real-time Report & Infrastructure Platform:** Led the architecture and development of an infrastructure documentation and technical reporting system utilizing **React 18, TypeScript, Tailwind CSS v4**, and Firestore.
-* **Custom Enterprise ERP:** Designed and implemented a custom ERP system for hyper-scale data center environments, integrating Method of Procedure (MOP) digital workflows, barcode-based material tracking, and workforce management.
-* **High-Performance Go Backend:** Engineered a high-throughput **Go (v1.24) backend** featuring multi-tier rate limiting and auto-chunked Firestore Write Batches (up to 400 documents) to ensure atomic daily maintenance aggregations.
-* **Edge Intelligence & Geocoding:** Developed a "Smart Camera" feature using custom image processing to automate GPS metadata embedding, technical watermarking, and optimized geocoding cache—reducing Nominatim API usage by over 80%.
-* **Optimized UI/UX Performance:** Achieved sub-second frontend latency by leveraging Framer Motion micro-animations, component debouncing, and request lifecycle management via AbortController.
-* **Data Center Field Operations:** Directly supervised physical operations and M&E systems coordination (UPS, PDU, Cooling) under strict, mission-critical operational standards.
+#### Senior Software Engineer
 
-#### **Senior UI/UX & System Architect** *(Dec 2025 - Present | Remote)*
-* **End-to-End System Redesign:** Formulated and led comprehensive redesign, modernization, and maintenance projects for internal management systems to maximize usability, responsiveness, and performance.
-* **User-Centered Design:** Conducted rigorous user research, crafted behavioral personas, mapped complex user journeys, and formulated target-driven product goals.
-* **High-Fidelity UI Artifacts:** Designed end-to-end interactive mockups, high-fidelity prototypes, wireframes, use cases, and technical flowcharts.
-* **Automated QA Pipelines:** Built, maintained, and optimized functional, integration, and regression testing suites using **Katalon Studio** to automate quality gates and guarantee system reliability.
-* **Agile Collaboration:** Maintained high product quality standards prior to release by managing bug-tracking cycles and collaborating closely with engineering teams.
+Leading the architecture and development of an infrastructure documentation and technical reporting platform built on React 18, TypeScript, Tailwind CSS v4, and Firestore — a system designed to bring real-time clarity to operations that have historically lived in spreadsheets. Alongside it, I designed and shipped a custom enterprise ERP for hyper-scale data center environments, weaving Method of Procedure workflows, barcode-driven material tracking, and workforce coordination into a single, coherent surface.
+
+On the backend, I engineered a high-throughput Go service featuring multi-tier rate limiting and auto-chunked Firestore Write Batches to keep daily maintenance aggregations atomic at scale. A "Smart Camera" capability extended the platform into the field, embedding GPS metadata, technical watermarks, and an optimized geocoding cache that cut Nominatim API consumption by more than eighty percent. Throughout, the front end was tuned for sub-second responsiveness through measured Framer Motion micro-animations, debouncing, and disciplined request lifecycle management. Outside the codebase, I directly oversaw physical operations and M&E coordination — UPS, PDU, and cooling — under mission-critical operational standards.
+
+#### Senior UI/UX & System Architect
+
+Driving end-to-end redesign and modernization of internal management systems, with a focus on usability, responsiveness, and long-term maintainability. The work begins in research and behavior — interviews, personas, journey mapping, and product-goal definition — and carries through into wireframes, high-fidelity prototypes, interactive mockups, and the technical flowcharts that anchor implementation. Quality is held in place through automated functional, integration, and regression suites built in Katalon Studio, paired with close collaboration across engineering teams to keep the bug-tracking loop tight and release standards consistently high.
 
 ---
 
-### 🎓 Education
+### Education
 
-* **Telkom University** *(Sep 2022 - Aug 2025)*
-  * **Major:** Informatics Engineering
-  * **GPA:** 3.64 / 4.00
-  * **Key Focus Areas:** Full-Stack Web & Mobile, UX Research, User Interface Design, Systems Analysis, TI Project Management, Software Verification.
+**Telkom University** — Informatics Engineering · GPA 3.64 / 4.00
+
+Coursework and project work centered on full-stack web and mobile development, UX research, interface design, systems analysis, IT project management, and software verification.
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub
 
 <p align="center">
-  <!-- GitHub Streak Stats (Sangat Stabil!) -->
-  <img src="https://streak-stats.demolab.com?user=gariiriana&theme=tokyonight&hide_border=true" alt="Gari's GitHub Streak" width="48%" />
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gariiriana&theme=tokyonight&hide_border=true" alt="Gari's Activity Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gariiriana&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="stats" height="160" />
+  <img src="https://streak-stats.demolab.com?user=gariiriana&theme=tokyonight&hide_border=true" alt="streak" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gariiriana&theme=tokyonight&hide_border=true&layout=compact" alt="top languages" height="160" />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+### Connect
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/gari-iriana-a1b3b5255" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-> *"Do, or do not. There is no 'try'."* — Yoda 🌟
+<p align="center"><sub>Built with care. Shipped with intent.</sub></p>
