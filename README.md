@@ -26,22 +26,15 @@ I work at the intersection of systems engineering and product design — buildin
 
 <br>
 
-## ◢ Currently
+## ◢ Tech Stack
 
-<table>
-  <tr>
-    <td>🛠️</td>
-    <td>Architecting real-time infrastructure platforms across React 18, TypeScript, and Go</td>
-  </tr>
-  <tr>
-    <td>🧭</td>
-    <td>Exploring edge intelligence, geospatial caching, and offline-first patterns</td>
-  </tr>
-  <tr>
-    <td>📐</td>
-    <td>Refining a personal design language for enterprise interfaces</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php&theme=dark" alt="languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,flutter,laravel,django&theme=dark" alt="frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,docker,git,github,postman,figma&theme=dark" alt="tools" />
+</p>
 
 <br>
 
@@ -76,15 +69,22 @@ I work at the intersection of systems engineering and product design — buildin
 
 <br>
 
-## ◢ Tech Stack
+## ◢ Currently
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php&theme=dark" alt="languages" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,flutter,laravel,django&theme=dark" alt="frameworks" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,docker,git,github,postman,figma&theme=dark" alt="tools" />
-</p>
+<table>
+  <tr>
+    <td>🛠️</td>
+    <td>Architecting real-time infrastructure platforms across React 18, TypeScript, and Go</td>
+  </tr>
+  <tr>
+    <td>🧭</td>
+    <td>Exploring edge intelligence, geospatial caching, and offline-first patterns</td>
+  </tr>
+  <tr>
+    <td>📐</td>
+    <td>Refining a personal design language for enterprise interfaces</td>
+  </tr>
+</table>
 
 <br>
 
