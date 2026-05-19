@@ -24,11 +24,7 @@ I work at the intersection of systems engineering and product design — buildin
 ## ◢ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php&theme=dark" alt="languages" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,flutter,laravel,django&theme=dark" alt="frameworks" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,docker,git,github,postman,figma&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php,react,tailwind,vite,nodejs,flutter,laravel,django,firebase,postgres,mysql,docker,git,github,postman,figma&theme=dark&perline=11" alt="tech stack" />
 </p>
 
 <br>
