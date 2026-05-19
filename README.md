@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.jpg" alt="banner" width="100%" />
-</p>
-
 <h1 align="center">Gari Iriana</h1>
 <p align="center"><b>Senior Software Engineer · UI/UX Architect</b></p>
 
