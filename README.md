@@ -1,9 +1,5 @@
-<h1 align="center">Gari Iriana</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=8AB4F8&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer;UI%2FUX+Architect;Building+at+the+intersection+of+systems+and+craft" alt="role" />
-  </a>
+  <img src="./assets/banner.svg" alt="banner" width="100%" />
 </p>
 
 <p align="center">
@@ -12,10 +8,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Based_in-Indonesia-F05032?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
-</p>
-
-<p align="center">
-  <i>Crafting high-performance platforms where engineering rigor meets a refined sense of interface.</i>
 </p>
 
 <br>
