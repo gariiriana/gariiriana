@@ -78,8 +78,10 @@ I am a **Senior Software Engineer & UI/UX Architect** specializing in building h
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gariiriana&show_icons=true&theme=tokyonight&hide_border=true" alt="Gari's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gariiriana&layout=compact&theme=tokyonight&hide_border=true" alt="Gari's Top Languages" width="48%" />
+  <!-- GitHub Streak Stats (Sangat Stabil!) -->
+  <img src="https://streak-stats.demolab.com?user=gariiriana&theme=tokyonight&hide_border=true" alt="Gari's GitHub Streak" width="48%" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gariiriana&theme=tokyonight&hide_border=true" alt="Gari's Activity Graph" width="48%" />
 </p>
 
 ---
