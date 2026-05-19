@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="banner" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Gari%20Iriana&fontColor=E6EDF3&fontSize=42&fontAlignY=35&desc=Senior%20Software%20Engineer%20%C2%B7%20UI/UX%20Architect&descColor=8AB4F8&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gariiriana&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
@@ -127,3 +125,5 @@ Coursework and project work centered on full-stack web and mobile development, U
 <p align="center">
   <sub><i>Built with care. Shipped with intent.</i></sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" width="100%" />
