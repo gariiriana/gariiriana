@@ -45,6 +45,10 @@ I work at the intersection of systems engineering, edge security, and product de
     <td>Cloudflare WAF · DNS Proxying & SSL/TLS · Firebase Security Rules (RBAC) · DDoS Protection</td>
   </tr>
   <tr>
+    <td><b>SEO & Performance</b></td>
+    <td>Core Web Vitals · Semantic HTML · Structured Data (JSON-LD) · PageSpeed Optimization · Crawlability & Indexing (Sitemaps, Robots.txt)</td>
+  </tr>
+  <tr>
     <td><b>Mobile</b></td>
     <td>Flutter · Dart — cross-platform delivery & state management</td>
   </tr>
@@ -87,7 +91,7 @@ I work at the intersection of systems engineering, edge security, and product de
 
 ### Senior Software Engineer
 
-Leading the architecture and development of infrastructure documentation, technical reporting, and delivery tracking platforms built on React 18, TypeScript, Tailwind CSS v4, and Firestore. I specialize in designing hybrid-serverless architectures that eliminate server latency by communicating directly with firewalls and database engines from the edge, secured under strict custom database rules (RBAC).
+Leading the architecture and development of infrastructure documentation, technical reporting, and delivery tracking platforms built on React 18, TypeScript, Tailwind CSS v4, and Firestore. I specialize in designing hybrid-serverless architectures that eliminate server latency, optimizing Core Web Vitals for maximum performance and search visibility, and communicating directly with firewalls and database engines from the edge (secured under strict custom RBAC rules).
 
 On the network edge, I leverage Cloudflare DNS Proxying and Web Application Firewalls (WAF) to implement complete IP masking, DDoS mitigation, and SSL certificate provisioning for custom domains. On the backend, I engineered high-throughput Go services featuring multi-tier rate limiting, alongside building asynchronous chunk-upload protocols that slice heavy binary files client-side into 512KB base64 payloads to preserve server resources. Additionally, I designed a "Smart Camera" geocoding cache that reduced external API dependency by over 80%. Outside the codebase, I directly oversaw physical operations and M&E coordination — UPS, PDU, and cooling — under mission-critical operational standards.
 
