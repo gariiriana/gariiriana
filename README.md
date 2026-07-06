@@ -24,7 +24,26 @@ I work at the intersection of systems engineering, edge security, and product de
 ## ◢ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php,react,tailwind,vite,nodejs,flutter,laravel,django,firebase,postgres,mysql,docker,cloudflare,git,github,postman,figma&theme=dark&perline=11" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php,react,tailwind,vite,nodejs,flutter,laravel,django,firebase,supabase,postgres,mysql,docker,cloudflare&theme=dark&perline=10" alt="tech stack" />
+</p>
+
+<br>
+
+## ◢ Tools & AI Services
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma&theme=dark" alt="tools" />
+</p>
+
+<p align="center">
+  <a href="https://developer.nvidia.com/nvidia-nim" target="_blank">
+    <img src="https://img.shields.io/badge/NVIDIA_NIM-AI_Agent_Orchestration-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NIM" />
+  </a>
+  <a href="https://meta.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Llama_3.2-Multimodal_Vision-0460A9?style=flat-square&logo=meta&logoColor=white" alt="Meta Llama" />
+  </a>
+  <img src="https://img.shields.io/badge/Antigravity-AI_Pair_Programmer-7A2FC2?style=flat-square&logo=googlegemini&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Google_Stitch-AI_UI/UX_Canvas-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Stitch" />
 </p>
 
 <br>
@@ -34,7 +53,7 @@ I work at the intersection of systems engineering, edge security, and product de
 <table>
   <tr>
     <td><b>AI & Agentic Systems</b></td>
-    <td>NVIDIA NIM · Multimodal Vision Pipelines · AI Agent Orchestration (Consolidation & Validation) · LLM API Pooling & Load Balancing</td>
+    <td>NVIDIA NIM · Multimodal Vision Pipelines · AI Agent Orchestration (Consolidation & Validation) · Google Stitch (AI UI/UX) · LLM API Pooling & Load Balancing</td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
@@ -58,7 +77,7 @@ I work at the intersection of systems engineering, edge security, and product de
   </tr>
   <tr>
     <td><b>Data Systems</b></td>
-    <td>Firebase (Firestore, RTDB, Auth) · PostgreSQL · MySQL · Chunked Data Protocols</td>
+    <td>Firebase (Firestore, RTDB, Auth) · Supabase (Database, Auth) · PostgreSQL · MySQL · Chunked Data Protocols</td>
   </tr>
   <tr>
     <td><b>DevOps & Infra</b></td>
