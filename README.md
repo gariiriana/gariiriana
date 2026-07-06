@@ -33,6 +33,10 @@ I work at the intersection of systems engineering, edge security, and product de
 
 <table>
   <tr>
+    <td><b>AI & Agentic Systems</b></td>
+    <td>NVIDIA NIM · Multimodal Vision Pipelines · AI Agent Orchestration (Consolidation & Validation) · LLM API Pooling & Load Balancing</td>
+  </tr>
+  <tr>
     <td><b>Frontend</b></td>
     <td>React 18 · TypeScript · Vite · Tailwind CSS (v3 / v4) · Framer Motion · Radix UI</td>
   </tr>
@@ -76,6 +80,10 @@ I work at the intersection of systems engineering, edge security, and product de
     <td>Architecting real-time infrastructure platforms across React 18, TypeScript, and Go</td>
   </tr>
   <tr>
+    <td>🤖</td>
+    <td>Engineering multi-stage, multi-modal AI Agent pipelines (NVIDIA NIM) for automated vision-based instrument reading and compliance verification</td>
+  </tr>
+  <tr>
     <td>🧭</td>
     <td>Exploring edge intelligence, geospatial caching, and offline-first hybrid-serverless patterns</td>
   </tr>
@@ -91,9 +99,9 @@ I work at the intersection of systems engineering, edge security, and product de
 
 ### Senior Software Engineer
 
-Leading the architecture and development of infrastructure documentation, technical reporting, and delivery tracking platforms built on React 18, TypeScript, Tailwind CSS v4, and Firestore. I specialize in designing hybrid-serverless architectures that eliminate server latency, optimizing Core Web Vitals for maximum performance and search visibility, and communicating directly with firewalls and database engines from the edge (secured under strict custom RBAC rules).
+Leading the architecture and development of AI-powered infrastructure documentation, technical reporting, and delivery tracking platforms built on React 18, TypeScript, Tailwind CSS v4, and Firestore. I specialize in designing hybrid-serverless architectures that eliminate server latency, optimizing Core Web Vitals for maximum performance and search visibility, and communicating directly with firewalls and database engines from the edge (secured under strict custom RBAC rules).
 
-On the network edge, I leverage Cloudflare DNS Proxying and Web Application Firewalls (WAF) to implement complete IP masking, DDoS mitigation, and SSL certificate provisioning for custom domains. On the backend, I engineered high-throughput Go services featuring multi-tier rate limiting, alongside building asynchronous chunk-upload protocols that slice heavy binary files client-side into 512KB base64 payloads to preserve server resources. Additionally, I designed a "Smart Camera" geocoding cache that reduced external API dependency by over 80%. Outside the codebase, I directly oversaw physical operations and M&E coordination — UPS, PDU, and cooling — under mission-critical operational standards.
+On the network edge, I leverage Cloudflare DNS Proxying and Web Application Firewalls (WAF) to implement complete IP masking, DDoS mitigation, and SSL certificate provisioning for custom domains. On the backend, I engineered high-throughput Go services featuring multi-tier rate limiting, alongside building asynchronous chunk-upload protocols that slice heavy binary files client-side into 512KB base64 payloads to preserve server resources. **Additionally, I designed and implemented a multi-stage, multi-modal AI Agent pipeline powered by NVIDIA NIM: it orchestrates vision models (Llama 3.2 Vision) to extract metrics from photos of physical meters (grounding, thermal, and power meters) and text-reasoning models (GLM-5.1) to merge, validate (voltage balance, grounding thresholds), and automatically write bilingual contextual remarks, reducing manual report compilation time. Furthermore, I built a round-robin LLM API key pool for failover and rate-limit mitigation.** Outside the codebase, I designed a "Smart Camera" geocoding cache that reduced external API dependency by over 80%, and directly oversaw physical operations and M&E coordination — UPS, PDU, and cooling — under mission-critical operational standards.
 
 ### Senior UI/UX & System Architect
 
