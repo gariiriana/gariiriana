@@ -1,5 +1,5 @@
 <h1 align="center">Gari Iriana</h1>
-<p align="center"><b>Senior Software Engineer · UI/UX Architect</b></p>
+<p align="center"><b>Software Engineer · UI/UX Architect</b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gariiriana&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
