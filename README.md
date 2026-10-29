@@ -109,23 +109,29 @@ On the engineering side I designed and built **[DwimitraSystem](https://dwimitra
 ## ◢ Featured Work
 
 ### 🏢 DwimitraSystem — AI-driven maintenance ERP · [dwimitrasystem.com](https://dwimitrasystem.com)
+
 In production at NeutraDC Cikarang. It replaced paper checklists, scattered spreadsheets and hand-assembled reports.
+
 - **Predictive engine:** Gemini Vision reads meter photos, an engineer confirms each value, and readings are checked against SNI, NEMA, ISO 10816 and IEEE 519 for 30+ equipment types.
 - **Automation:** SLA/SLG timing, structured Post Incident Reports, MOP approvals, one-click 13-chapter Monthly Reports, bilingual MOP/SOP/EOP documents and WhatsApp PM reminders.
 - **BOQ survey module:** covers 2,600+ assets with live camera capture and an offline upload queue.
 - **Single QC view:** every team's abnormal findings in one place, and nothing is permanently deleted without QC approval.
 
 ### 🕌 KASMA — Pesantren cooperative platform · *sole engineer*
+
 Runs the daily operations of the Al Umanaa cooperative. It went from the first line of code to a live system in five months (277 commits).
+
 - Covers catering, production, distribution and courier delivery, including the government's **MBG free meal program**. Reports come out in the official Badan Gizi Nasional format.
 - Brings 20+ roles and 7 business units into one system, with role-based access.
 - Uses 58 automated test files, including property-based tests, and stays on Firebase's free plan.
 
 ### ⚡ PAWA Indonesia — Engineer & HSE dual portal
+
 - React 18 + TypeScript monorepo with a Go 1.23 REST API, deployed with Docker and Nginx.
 - Smart camera with GPS and timestamp watermarks, geo-tagged hazard reporting, and in-browser PDF and Excel exports.
 
 ### 🛠️ UTT Report Maintenance & site ERP
+
 - MOP & PTW, TBM attendance and barcode-based material tracking for M&E operations.
 - AI pipeline (NVIDIA NIM, Llama 3.2 Vision, GLM 5.1) that analyses electrical panels and thermal readings and drafts AI Service Reports.
 
@@ -134,7 +140,7 @@ Runs the daily operations of the Al Umanaa cooperative. It went from the first l
 ## ◢ Experience
 
 | Role | Company | Period |
-|---|---|---|
+| --- | --- | --- |
 | **QC Maintenance Hyperscale DC & Software Engineer** | PT Dwimitra Ekatama Mandiri · DC PT Telkom Data Ekosistem (NeutraDC) | Aug 2026 – Present |
 | **Software Development Engineer** | PT PAWA Indonesia Engineer (Data Center) · Remote | May 2026 – Present |
 | **Software Engineer (Sole Engineer)** | Koperasi Al Umanaa Sejahtera Mandiri (KASMA) · Remote | Jan 2026 – Present |
